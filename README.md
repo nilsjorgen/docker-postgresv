@@ -11,7 +11,7 @@ Put any SQL-file in the `data` directory and it will be executed when the contai
 ## Credentials
 
 ```txt
-schema: localhost
+database: localhost
 username: localhost
 password: localhost
 ```
