@@ -1,6 +1,6 @@
 # docker-postgresql
 
-Run PostgreSQL on localhost with docker-compose. Extends the [Official Postgres Docker Image](https://hub.docker.com/_/postgres).
+Use docker-compose to run PostgreSQL with any provided data. Extends the [Official Postgres Docker Image](https://hub.docker.com/_/postgres).
 
 ## Usage
 
